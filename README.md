@@ -1,5 +1,13 @@
 # RelayDeck
 
+## IMPORTANT, READ BEFORE INSTALL OR RUN
+
+Because it involves the installation and management of administrative tools, this tool must be run with `sudo` on macOS systems. Example:
+
+```
+sudo python3 relaydeck.py
+```
+
 **RelayDeck** is a single-file remote access installer and manager for local administration on **macOS** and **Windows**.
 
 It gives you one clean entrypoint to:
